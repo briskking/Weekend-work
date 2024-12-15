@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+ html, body {
+    background-color: green;
+
+}
+#card {
+
+    background: #fff;
+    width: 350px;
+    height: 500px;
+    position: absolute;
+    top: -32%;
+    left: 50%;
+    right: -10;
+    transform: translate(-50%, 50%);
+    border-radius: 10px;
+    display: flex;
+    flex-flow: row;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+}
+.emptycard{
+
+    padding-top: 1%;
+    padding-left: 8%;
+    
+    background: orangered;
+    width: 380px;
+    height: 570px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    bottom: -100%;
+    transform: translate(-50%, 50%);
+    border-radius: 10px;
+    display: flex; 
+}
+
+table, th, tbody, td {
+    border: 2px solid;
+    padding: 1%;
+    margin: 2%;
+    border-collapse: collapse;
+
+}
+img {
+  margin-bottom: 5%;
+  margin-top: 2%;
+  margin-left: 2%;  
+  margin-right: 2%;
+  width: 335px;
+  height: 300px;
+}
+ 
+h1 {
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+    
+    

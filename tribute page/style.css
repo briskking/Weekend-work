@@ -1,0 +1,88 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+#main {
+   background: rgb(238, 238, 245);;
+    font-family: Verdana, Geneva, Tahoma;
+  font-color : white;
+    align-items: center;
+    border: 7px white;
+}
+
+#intro-cap h1 {
+    text-align: center;
+    padding-top: 0.8%;
+  }
+  
+  .title {
+    font-size: 20px;
+    line-height: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    }
+
+h2 {
+  font-size: 20px;
+  margin: 50px;
+  font-family: arial;
+}
+
+    .responsive {
+      background-color: rgb(241, 242, 242);
+      color: white;
+      max-width: 100%; 
+      height: auto;
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+} 
+
+#tribute-info{
+font-family: Georgia, 'Times New Roman', Times, serif;
+padding-top: 1%;
+text-align: center;
+
+
+
+}
+
+h3{
+background-color: rgb(233, 237, 236);
+color: black;
+width: 18%;
+margin-left: auto;
+margin-right: auto;
+
+
+
+}
+
+  .a {
+    color: auto;
+    margin: 50px;
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 0.3%;
+  }
+  
+    ul {
+    text-align: justify;
+      padding-bottom: 10px;
+      line-height: 10px;
+    }
+    
+    li {
+      margin: 20px;
+      line-height: 20px;
+      text-align: justify;
+      font-size: 14px;
+    }
+
+.ema {
+  font-size: 16px;
+  text-align: left;
+  margin: 30px;
+  line-height: 24px;
+}
