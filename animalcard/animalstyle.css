@@ -11,7 +11,7 @@
 
     background: #fff;
     width: 350px;
-    height: 500px;
+    height: 530px;
     position: absolute;
     top: -32%;
     left: 50%;
@@ -31,7 +31,7 @@
     
     background: orangered;
     width: 380px;
-    height: 570px;
+    height: 610px;
     position: relative;
     top: 50%;
     left: 50%;
@@ -43,9 +43,10 @@
 
 table, th, tbody, td {
     border: 2px solid;
-    padding: 1%;
+    padding: 2%;
     margin: 2%;
     border-collapse: collapse;
+    line-height: -1px;
 
 }
 img {
